@@ -82,7 +82,9 @@ xnor(z,a,b);
 endmodule
 ```
 
+**Logic symbol & Truthtable**
 
+![WhatsApp Image 2024-03-18 at 08 51 26_762c497f](https://github.com/Sabeeha23/study-of-basic-gates/assets/150231876/2b42f017-980a-45be-9136-b91dfbec2656)
 
 
 **RTL realization Output:** 
